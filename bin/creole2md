@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'creole2md'
+
+puts Creole2md.convert(ARGF.read)
