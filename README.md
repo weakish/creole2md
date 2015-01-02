@@ -1,5 +1,7 @@
 # Creole2md
 
+[![Gem Version](https://badge.fury.io/rb/creole2md.svg)](http://badge.fury.io/rb/creole2md)
+
 This gem converts creole to html, then converts html to markdown.
 
 ## Installation
